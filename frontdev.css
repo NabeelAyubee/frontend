@@ -2,7 +2,7 @@ body{
   margin: 0;
 }
 div.box1-image{
-  background-image: url('C:/Users/Extrs/flask_app/Project Practice/Trisys Training/Front Page/image/htmldev.jpg');
+  background-image: url('htmldev.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   overflow:  auto;
