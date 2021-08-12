@@ -101,7 +101,7 @@ footer{
   background-color: black;
   color: white;
   text-align: center;
-  position: sticky;
+  position: fixed;
   column-count: 2;
 }
 p.foot{
